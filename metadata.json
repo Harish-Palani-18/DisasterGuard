@@ -1,0 +1,6 @@
+{
+  "name": "DisasterGuard AI",
+  "description": "Multi-Agent Disaster Management System powered by Google Gemini for real-time monitoring, risk assessment, emergency triage, resource coordination, and public safety communications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
